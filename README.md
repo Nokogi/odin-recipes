@@ -1,0 +1,1 @@
+This project is to develop my skills with Git, Github, and VSCode along with html. 

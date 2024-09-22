@@ -2,7 +2,7 @@
     font-family: helvetica, "times new roman", arial;
 }
 
-#heading {
+h1 {
     background-color: hsl(120, 75%, 75%);
     text-align: center;
     font-size: 48px;
@@ -10,4 +10,18 @@
 
 .recipe-link {
     font-size: 32px;
+}
+
+.ingredients {
+    background-color: #00ffff;
+    font-weight: 800;
+}
+
+.steps {
+    background-color: #00ff00;
+    font-weight: 800;
+}
+
+h2 {
+    text-align: center;
 }
